@@ -29,6 +29,6 @@
 
 <br>
 
-<a href="cr.zaba@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a> Mail: cr.zaba@gmail.com </a>
 
 </p>
