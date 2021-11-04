@@ -1,18 +1,34 @@
 <img src="https://github.com/CarZamKiri/CarZamKiri/blob/main/svg.svg"/>
 
-### Hi I'm Carlos 🐱‍👤🐱‍🏍🚀
+<h3> About Me </h3>
 
-<!--
-**CarZamKiri/CarZamKiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 &nbsp; I like to learn about the technology of tomorrow to use it today
+
+- 🎓 &nbsp; I am a computer engineering student at the powerful UV
+
+- ✍️ &nbsp; Next web developer (and maybe other things)
+
+
+
+<h3 Tech Stack</h3>
+
+
+
+- 💻 &nbsp;  C | JAVASCRIPT
+
+- 🌐 &nbsp; HTML | CSS 
+
+
+<hr>
+
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+<a href="cr.zaba@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+</p>
